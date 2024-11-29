@@ -4,7 +4,6 @@ function userName(firstName, lastName){
         lastName
     };
 }
-module.exports = userName;
-
-console.log(userName("Marco", "Amantea"))
+//console.log(userName("Marco", "Amantea"));
+export default userName;
 

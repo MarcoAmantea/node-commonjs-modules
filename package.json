@@ -7,9 +7,11 @@
     "start-2": "node names.js",
     "start-3": "node hobbies.js",
     "dev": "node --watch app.js"
-    
   },
   "author": "Marco",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "chalk": "^5.3.0"
+  }
 }
